@@ -1,6 +1,6 @@
 [submodule "zsh/oh-my-zsh"]
 	path = zsh/oh-my-zsh
-	url = git@github.com:schisamo/oh-my-zsh.git
+	url = git@github.com:shorwath/oh-my-zsh.git
 [submodule "vim/vim.symlink"]
 	path = vim/vim.symlink
-	url = git@github.com:schisamo/dotvim.git
+	url = git@github.com:shorwath/dotvim.git
